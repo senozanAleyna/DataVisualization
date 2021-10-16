@@ -1,8 +1,8 @@
 # DataVisualization
 
-Goals
-Use a Jupyter notebook to execute a series of commands.
-Publish and publish data.
-Explain the basics of pandas.
-Use a DataFrame using common data.
-It gains simple view using matplotlib.
+Goals <br>
+Use a Jupyter notebook to execute a series of commands.<br>
+Publish and publish data.<br>
+Explain the basics of pandas.<br>
+Use a DataFrame using common data.<br>
+It gains simple view using matplotlib.<br>
